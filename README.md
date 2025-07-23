@@ -39,3 +39,12 @@ This project demonstrates how cloud computing and machine learning can be combin
 Cloud architecture (AWS Lambda, API Gateway, ECR)
 
 Full-stack web development
+
+Screenshots :
+
+<img width="940" height="463" alt="image" src="https://github.com/user-attachments/assets/547c524b-6056-42b0-8807-71a3d29a31ce" />
+
+<img width="940" height="847" alt="image" src="https://github.com/user-attachments/assets/c5ac2c5f-4a84-4d6a-b89e-c162ef67f7ae" />
+
+<img width="940" height="847" alt="image" src="https://github.com/user-attachments/assets/8d944ca6-72ad-4508-b4fc-50f1b314f81e" />
+
