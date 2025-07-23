@@ -1,1 +1,41 @@
-# Sentiment-Analysis-Tool
+🧠 Sentiment Analysis Tool (AWS Cloud Deployment)
+This project is a serverless web application that performs real-time sentiment analysis on user-inputted text (e.g., reviews or messages) and classifies the sentiment as either Positive or Negative.
+
+🚀 Features
+🔍 Real-time sentiment detection
+
+🧑‍💻 Simple, responsive frontend interface
+
+☁️ Deployed on AWS Lambda using Dockerized container
+
+🌐 Accessible via API Gateway HTTP endpoint
+
+✅ Output displayed instantly on screen
+
+🛠️ Tech Stack
+
+Technology	Purpose
+Python + Scikit-learn - Training the sentiment classification model
+AWS Lambda - Hosting the model in a serverless function
+AWS API Gateway -	Exposing the model as an HTTP API
+Docker - Containerizing the model and runtime
+Amazon ECR - Storing the container image
+HTML, CSS, JS	Frontend web interface
+
+🔄 How It Works
+User inputs text on the frontend.
+
+Frontend sends a request to the API Gateway.
+
+API triggers AWS Lambda, which contains the trained model.
+
+Lambda returns sentiment as "Positive" or "Negative".
+
+Frontend displays result to the user in a friendly format.
+
+📚 Learning Outcomes
+This project demonstrates how cloud computing and machine learning can be combined to create scalable, serverless applications. It strengthened skills in:
+
+Cloud architecture (AWS Lambda, API Gateway, ECR)
+
+Full-stack web development
